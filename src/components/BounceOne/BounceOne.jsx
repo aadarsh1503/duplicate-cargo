@@ -7,7 +7,7 @@ import five from "./five.png"
 import six from "./six.png"
 import seven from "./seven.png"
 import eight from "./eight.png"
-
+//
 const BounceOne = () => {
   const projects = [
     { title: 'PICKUP AND DELIVERY', src: one },
